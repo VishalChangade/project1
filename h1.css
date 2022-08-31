@@ -1,0 +1,33 @@
+
+
+
+
+        fieldset{
+            background-color: green;
+            width: 600px;
+        }
+.field{
+    background-color: rgb(240, 241, 243);
+    width: 600px;
+    margin-bottom: 50px;
+    
+
+}
+.for{
+    text-align: center;
+    
+    
+}
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow:2px 2px 3px black;
+    color: rgb(113, 171, 221);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 6px rgb(247, 243, 243);
+    text-decoration:underline;
+    
+}

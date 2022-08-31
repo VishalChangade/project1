@@ -1,0 +1,106 @@
+.v{
+    background-color: rgb(5, 138, 254);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 50px;
+    left: 200px;
+    
+}
+.i{
+    background-color: rgb(4, 124, 229);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 100px;
+    left: 60px;
+    
+}
+.s{
+    background-color: rgb(3, 108, 200);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 100px;
+    left: 60px;
+    
+}
+.h{
+    background-color: rgb(2, 97, 180);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 100px;
+    left: 60px;
+    
+}
+.a{
+    background-color: rgb(5, 69, 125);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 100px;
+    left: 60px;
+    
+}
+.g{
+    background-color: rgb(21, 5, 10);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 450px;
+    left: 540px;
+}
+.j{
+    background-color: rgb(55, 14, 27);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 350px;
+    left: 590px;
+}
+.n{
+    background-color: rgb(117, 23, 53);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 250px;
+    left: 640px;
+}
+.k{
+    background-color: rgb(163, 24, 68);
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 150px;
+    left: 690px;
+}
+.d{
+     background-color: rgb(198, 30, 84); /*url(/images/css-border.gif); */
+    /* background-size:100px 100px; */
+    height: 100px ;
+    width: 100px;
+    position:absolute;
+    top: 50px;
+    left: 740px;
+}
+
+
+.my{
+    background:url(/images/moon.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+}
+.name{
+    border: 3px solid rgb(0, 255, 85);
+    height: 550px;
+    width: 750px;
+    margin-left: 140px;
+    background:rgba(0,0,0,0.5) url(/images/moon.jpg);
+   
+    background-blend-mode:overlay;
+    background-size: cover;
+    opacity:50%;
+
+}
